@@ -18,7 +18,7 @@ bower_components
 package-lock.json
 bundle.js
 lib/*
-# index.html
+index.html
 !dist/README.md
 
 # Ignore .env configuration files
